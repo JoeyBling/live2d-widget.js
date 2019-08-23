@@ -23,11 +23,22 @@
       padding: 10px 10px;
     }
 
+    @media screen and (max-width: 320px) {
+      .forkMe {
+        display: none;
+      }
+    }
+
   </style>
 
 </head>
 
 <body>
+  <a class="forkMe" style="position:fixed;z-index:999;top:0;right:0.5em"
+    href="https://github.com/JoeyBling/live2d-widget.js" target="_blank">
+    <img width="149" height="149" src="./images/forkme.png" class="attachment-full size-full" alt="Fork me on GitHub"
+      data-recalc-dims="1">
+  </a>
   <div class="content">
 
     <input class="title" type="button" value="保存为图片" id="savePng" />
