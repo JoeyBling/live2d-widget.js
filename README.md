@@ -1,3 +1,5 @@
+# 在网站上集成Live2D看板娘具有开箱即用的体验。
+
 [![npm][npm]][npm-url]
 [![deps][deps]][deps-url]
 [![devdeps][devdeps]][devdeps-url]
