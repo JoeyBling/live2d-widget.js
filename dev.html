@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Live2d Test Env</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style type="text/css">
+    * {
+      font-family: Merriweather, Arial, sans-serif;
+      letter-spacing: 0.1rem;
+    }
+
+    .content {
+      text-align: center;
+      padding: 10px 0px 20px;
+    }
+
+    .title {
+      color: rgb(34, 34, 34);
+      text-align: center;
+      padding: 10px 10px;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <div class="content">
+
+    <input class="title" type="button" value="保存为图片" id="savePng" />
+  </div>
+</body>
+
+<script src="lib/L2Dwidget.min.js"></script>
+<script src="lib/live2d.js"></script>
+<script type="text/javascript">
+  // 所有模型集合
+  var modelArray = ["chitose", "epsilon2_1", "gf", "haru/01", "haru/02", "haruto", "hibiki", "hijiki", "izumi",
+    "koharu", "miku", "nico", "nietzsche", "ni-j", "nipsilon", "nito", "shizuku", "tororo", "tsumiki", "unitychan",
+    "wanko", "z16"
+  ];
+  var random = Math.floor((Math.random() * modelArray.length));
+  var randomModelName = modelArray.slice(random, random + 1)[0];
+  console.log("随机获取到的模型：" + randomModelName);
+
+  // modelName 对应 live2d_models 名称
+  Live2D.init(randomModelName);
+
+  document.getElementById("savePng").onclick = function () {
+    console.log(L2Dwidget.config);
+    L2Dwidget.downloadFrame(); // 将当前帧捕获到png文件并下载
+  };
+
+</script>
+
+</html>
