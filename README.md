@@ -1,22 +1,16 @@
 # 在网站上集成Live2D看板娘具有开箱即用的体验
 
-[![npm][npm]][npm-url]
-[![deps][deps]][deps-url]
-[![devdeps][devdeps]][devdeps-url]
+[![star](https://gitee.com/zhousiwei/live2d-widget.js/badge/star.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/stargazers)
+[![fork](https://gitee.com/zhousiwei/live2d-widget.js/badge/fork.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/members)
+[![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
+[![博客搭建交流群](https://img.shields.io/badge/QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 
-[![downloads][downloads]][downloads-url]
-[![downloads-month][downloads-month]][downloads-month-url]
 
-[![GitHub stars][GitHub stars]][GitHub stars-url]
-[![GitHub forks][GitHub forks]][GitHub forks-url]
-[![GitHub issues][GitHub issues]][GitHub issues-url]
+> **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
 
-[![Commitizen friendly][Commitizen friendly]][Commitizen friendly-url]
-[![PRs Welcome][PRs Welcome]][PRs Welcome-url]
-[![license][license]][license-url]
+## 线上预览
 
-[![Backers on Open Collective](https://opencollective.com/live2d-widgetjs/backers/badge.svg)](#backers)
- [![Sponsors on Open Collective](https://opencollective.com/live2d-widgetjs/sponsors/badge.svg)](#sponsors) 
+> **预览 ➡️ [https://zhousiwei.gitee.io/live2d-widget.js](https://zhousiwei.gitee.io/live2d-widget.js)**
 
 # live2d-widget.js
 
@@ -159,118 +153,6 @@ issues: [https://github.com/EYHN/hexo-helper-live2d/issues](https://github.com/E
 - [CubismJsComponents](https://github.com/Live2D/CubismJsComponents)
 
 
+## License
 
-## About me
-
-[![Author][author]][author-url]
-
-[![Author QQ][author-qq]][author-qq-url]
-
-[![Author Email][author-email]][author-email-url]
-
-
-[![Collaborator 0][collaborator0]][collaborator0-url]
-
-[![Collaborator 0 QQ][collaborator0-qq]][collaborator0-qq-url]
-
-[![Collaborator 0 Email][collaborator0-email]][collaborator0-email-url]
-
-
-## Imported
-
-[![current-device][current-device]][current-device-url]
-
-## Special Thanks
-
-- @mashirozx 
-- @fghrsh
-- @journey-ad
-- @gwzz
-
-<br>
-
-Open sourced under the GPL v2.0 license.
-
-[npm]: https://badge.fury.io/js/live2d-widget.svg?label=live2d-widget
-[npm-url]: https://www.npmjs.com/package/live2d-widget
-
-[deps]: https://img.shields.io/david/xiazeyu/live2d-widget.js.svg
-[deps-url]: javascript:void(0);
-
-[devdeps]:  https://img.shields.io/david/dev/xiazeyu/live2d-widget.js.svg
-[devdeps-url]: javascript:void(0);
-
-[license]: https://img.shields.io/github/license/xiazeyu/live2d-widget.js.svg
-[license-url]: https://github.com/xiazeyu/live2d-widget.js/blob/master/LICENSE
-
-[PRs Welcome]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[PRs Welcome-url]: http://makeapullrequest.com
-
-[downloads]:  https://img.shields.io/npm/dt/live2d-widget.svg
-[downloads-url]: https://www.npmjs.com/package/live2d-widget
-
-[downloads-month]: https://img.shields.io/npm/dm/live2d-widget.svg
-[downloads-month-url]: https://www.npmjs.com/package/live2d-widget
-
-[Commitizen friendly]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
-[Commitizen friendly-url]: http://commitizen.github.io/cz-cli/
-
-[GitHub stars]: https://img.shields.io/github/stars/xiazeyu/live2d-widget.js.svg
-[GitHub stars-url]: https://github.com/xiazeyu/live2d-widget.js/stargazers
-
-[GitHub forks]: https://img.shields.io/github/forks/xiazeyu/live2d-widget.js.svg
-[GitHub forks-url]: https://github.com/xiazeyu/live2d-widget.js/network
-
-[GitHub issues]: https://img.shields.io/github/issues/xiazeyu/live2d-widget.js.svg
-[GitHub issues-url]: https://github.com/xiazeyu/live2d-widget.js/issues
-
-[author]: https://img.shields.io/badge/author-cneyhn-green.svg
-[author-url]: https://delusion.coding.me/
-
-[author-qq]: https://img.shields.io/badge/QQ-1106996185-blue.svg
-[author-qq-url]: tencent://message/?uin=1106996185&Site=Senlon.Net&Menu=yes
-
-[author-email]: https://img.shields.io/badge/Emali%20me-cneyhn@gmail.com-green.svg
-[author-email-url]: mailto:cneyhn@gmail.com
-
-[collaborator0]: https://img.shields.io/badge/author-xiazeyu-green.svg
-[collaborator0-url]: https://xiazeyu.coding.me/
-
-[collaborator0-qq]: https://img.shields.io/badge/QQ-2320732807-blue.svg
-[collaborator0-qq-url]: tencent://message/?uin=2320732807&Site=Senlon.Net&Menu=yes
-
-[collaborator0-email]: https://img.shields.io/badge/Emali%20me-xiazeyu_2011@126.com-green.svg
-[collaborator0-email-url]: mailto:xiazeyu_2011@126.com
-
-[current-device]: https://img.shields.io/npm/v/current-device.svg?label=current-device
-[current-device-url]: https://github.com/matthewhudson/current-device
-
-## Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/xiazeyu/live2d-widget.js/graphs/contributors"><img src="https://opencollective.com/live2d-widgetjs/contributors.svg?width=890&button=false" /></a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/live2d-widgetjs#backer)]
-
-<a href="https://opencollective.com/live2d-widgetjs#backers" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/live2d-widgetjs#sponsor)]
-
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/0/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/1/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/2/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/3/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/4/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/5/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/6/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/7/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/8/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/live2d-widgetjs/sponsor/9/website" target="_blank"><img src="https://opencollective.com/live2d-widgetjs/sponsor/9/avatar.svg"></a>
-
-
+[Apache License](./LICENSE)
