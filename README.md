@@ -1,9 +1,13 @@
 # 在网站上集成Live2D看板娘具有开箱即用的体验
 
-[![star](https://gitee.com/zhousiwei/live2d-widget.js/badge/star.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/stargazers)
-[![fork](https://gitee.com/zhousiwei/live2d-widget.js/badge/fork.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/members)
+![star](https://img.shields.io/github/stars/JoeyBling/live2d-widget.js "star")
+![fork](https://img.shields.io/github/forks/JoeyBling/live2d-widget.js "fork")
+![GitHub Last Commit](https://img.shields.io/github/last-commit/JoeyBling/live2d-widget.js.svg?label=commits "GitHub Last Commit")
+![issues](https://img.shields.io/github/issues/JoeyBling/live2d-widget.js "issues")
 [![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
+[![hexo-theme-yilia-plus](https://img.shields.io/badge/Theme-YiliaPlus-red.svg "hexo-theme-yilia-plus")](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 [![博客搭建交流群](https://img.shields.io/badge/QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
 
 
 > **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
