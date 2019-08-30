@@ -11,12 +11,30 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
+  <style type="text/css">
+    * {
+      font-family: Merriweather, Arial, sans-serif;
+      letter-spacing: 0.1rem;
+    }
+
+    @media screen and (max-width: 320px) {
+      .forkMe {
+        display: none;
+      }
+    }
+
+  </style>
   <link rel="stylesheet" href="css/main.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
 <body>
+<a class="forkMe" style="position:fixed;z-index:999;top:0;right:0.5em"
+href="https://github.com/JoeyBling/live2d-widget.js" target="_blank">
+<img width="149" height="149" src="../images/forkme.png" class="attachment-full size-full" alt="Fork me on GitHub"
+  data-recalc-dims="1">
+</a>
 <h1 id="live2d模型包截图预览"><strong>live2d模型包截图预览</strong></h1>
 <blockquote>
 <p><strong>欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善</strong></p>
@@ -129,3 +147,12 @@
 </ul>
 </body>
 </html>
+<script>
+  // 根据链接地址的不同，更换forkMe的图标和地址
+  var hrefValue = window.location.href;
+  if (String(hrefValue).indexOf('gitee.io') >= 0) {
+    //document.getElementsByClassName("attachment-full")[0].src = "../images/gitee.svg";
+    document.getElementsByClassName("forkMe")[0].href = "https://gitee.com/zhousiwei/live2d-widget.js";
+  }
+
+</script>
