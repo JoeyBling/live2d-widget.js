@@ -66,5 +66,14 @@
   };
 
 </script>
+<script>
+  // 根据链接地址的不同，更换forkMe的图标和地址
+  var hrefValue = window.location.href;
+  if (String(hrefValue).indexOf('gitee.io') >= 0) {
+    document.getElementsByClassName("attachment-full")[0].src = "./images/gitee.svg";
+    document.getElementsByClassName("forkMe")[0].href = "https://gitee.com/zhousiwei/live2d-widget.js";
+  }
+
+</script>
 
 </html>
