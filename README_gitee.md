@@ -3,7 +3,9 @@
 [![star](https://gitee.com/zhousiwei/live2d-widget.js/badge/star.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/stargazers)
 [![fork](https://gitee.com/zhousiwei/live2d-widget.js/badge/fork.svg?theme=dark)](https://gitee.com/zhousiwei/live2d-widget.js/members)
 [![Author](https://img.shields.io/badge/Author-JoeyBling-red.svg "Author")](https://zhousiwei.gitee.io "Author")
+[![hexo-theme-yilia-plus](https://img.shields.io/badge/Theme-Yilia_Plus-red.svg "hexo-theme-yilia-plus")](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 [![博客搭建交流群](https://img.shields.io/badge/QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
 
 
 > **欢迎使用和Star支持，如使用过程中碰到问题，可以提出Issue，我会尽力完善**
@@ -11,6 +13,14 @@
 ## 线上预览
 
 > **预览 ➡️ [https://zhousiwei.gitee.io/live2d-widget.js](https://zhousiwei.gitee.io/live2d-widget.js)**
+
+
+## 项目使用
+
+- ### 一款简洁优雅的hexo主题：[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- ### 一款简洁优雅的VuePress主题：[vuepress-theme-yilia-plus](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
+- ### VuePress集成Live2D看板娘：[vuepress-plugin-helper-live2d](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
+
 
 # live2d-widget.js
 
